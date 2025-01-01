@@ -4,24 +4,24 @@ class Program
 {
     static void Main(string[] args)
     {
-        byte myByte = 234;
-        sbyte mySByte = -115;
+        byte myByte = 45;
+        sbyte mySByte = 25;
 
         short myShort = -30_000;
-        ushort myUShort = 60_000;
+        ushort myUShort = 300;
 
-        int myInt = -2_000_000;
-        uint myUInt = 3_000_000_000;
+        int myInt = 100_000_000;
+        uint myUInt = 4_000_000_000;
 
-        long myLong = -90_000_000_000_000;
-        ulong myULong = 200_000_000_000_000;
+        long myLong = 90_000_000_000_000;
+        ulong myULong = 200_200_000_000_000_000;
 
-        float myFloat = 0.01f;
-        double myDouble = 3.14159;
-        decimal myDecimal = 20.46m;
-        bool isBored = true;
-        char myChar = 'T';
-        string myString = "Lots of numbers here.";
+        float myFloat = -200.01f;
+        double myDouble = -3.903;
+        decimal myDecimal = -2220.46m;
+        bool isBored = false;
+        char myChar = 'X';
+        string myString = "Soooo many numbers.";
 
 
         Console.WriteLine(myString);

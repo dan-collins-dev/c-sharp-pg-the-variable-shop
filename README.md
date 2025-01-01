@@ -13,7 +13,7 @@ Note: all of the commits for this repo, except for README updates, are all the s
 - Use `Console.WriteLine()` to display the contents of each variable.
 
 ### The Variable Shop Returns: 50xp
-- [ ] Completed
+- [X] Completed
 
 #### Objectives
 - Modify the Variable Shop program to assign a new literal value to each of the 14 original variables.
