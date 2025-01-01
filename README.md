@@ -5,7 +5,7 @@ Challenge from [The C# Player's Guide](https://csharpplayersguide.com/) by RB Wh
 Note: all of the commits for this repo, except for README updates, are all the solutions to Level 6.
 
 ### The Variable Shop: 100xp
-- [] Completed
+- [X] Completed
 
 #### Objectives
 - Build a program with a variable of all fourteen types described in this level.
@@ -13,7 +13,7 @@ Note: all of the commits for this repo, except for README updates, are all the s
 - Use `Console.WriteLine()` to display the contents of each variable.
 
 ### The Variable Shop Returns: 50xp
-- [] Completed
+- [ ] Completed
 
 #### Objectives
 - Modify the Variable Shop program to assign a new literal value to each of the 14 original variables.
